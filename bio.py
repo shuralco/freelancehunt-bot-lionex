@@ -1,65 +1,57 @@
-# Данные о фрилансере для персонализации откликов ИИ
+# Дані про фрілансера для персоналізації AI-відгуків.
 
 BIO = {
-    "name": "Дмитро (Дмитрий)",
-    "specialization": "Контент-менеджер, Специалист по наполнению сайтов, Обработка данных и видео",
+    "name": "Владислав Чистяков (shural)",
+    "specialization": (
+        "Засновник і керівник веб-студії Lionex (lionex.com.ua). "
+        "Спеціалізація: повноцінна розробка інтернет-магазинів, корпоративних сайтів і веб-додатків — "
+        "від UI/UX-дизайну до запуску, технічної підтримки та маркетингу."
+    ),
     "main_skills": [
-        "Наполнение интернет-магазинов (WordPress, OK CMS и др.)",
-        "Сбор (парсинг) данных: сбор характеристик, картинок, мета-данных",
-        "Работа с YouTube: сбор тегов, названий, превью",
-        "Обработка видео: простой монтаж, Reels, TikTok",
-        "Автоматизация рутинных задач",
+        "Розробка інтернет-магазинів та e-commerce-платформ (Next.js, TypeScript, PostgreSQL, інтеграції з CRM/платіжними системами)",
+        "Корпоративні сайти, лендінги та веб-додатки на Next.js + Tailwind CSS",
+        "SaaS / веб-сервіси (Textory — AI SaaS web app, власний CRM)",
+        "UI/UX дизайн (Figma, дослідження аудиторії, прототипування)",
+        "SEO-оптимізація, контекстна реклама, SMM",
+        "Технічна підтримка та супровід проєктів 24/7",
+        "Адаптивна верстка, швидке завантаження, оптимізація під мобільні",
+        "Інтеграції: Monobank, Vchasno (КЕП), Telegram-боти, Google APIs",
     ],
     "portfolio": [
         {
-            "title": "Ведення тік-ток, Instagram акаунта, простий монтаж",
-            "description": "Ведение TikTok и Instagram аккаунта, простой монтаж видео.",
-            "url": "https://freelancehunt.com/showcase/work/vedennya-tik-tok-instagram-akaunta-prostiy/1978130.html"
+            "title": "Lionex — веб-студія повного циклу",
+            "description": "Розробка сайтів, e-commerce, веб-додатків. Понад 6+ запущених проєктів, серед яких SaaS, інтернет-магазини, медичні клініки.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Додавання товарів на вордпрес сайт",
-            "description": "Наполнение товарами сайта на WordPress.",
-            "url": "https://freelancehunt.com/showcase/work/dodavannya-tovariv-na-vordpres-sayt/1978126.html"
+            "title": "Textory — AI SaaS web application",
+            "description": "Веб-додаток на Next.js + TypeScript + PostgreSQL з AI-функціоналом. Запущений у 2025, ~3 місяці розробки.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Наповнити сайт товарами",
-            "description": "Наполнение сайта товарами.",
-            "url": "https://freelancehunt.com/showcase/work/napovniti-sayt-tovarami/1978125.html"
+            "title": "Kvant Energy — інтернет-магазин",
+            "description": "E-commerce платформа для продажу енергообладнання: каталог, оформлення замовлень, інтеграції. ~2 місяці розробки.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Додавання карток товару WordPress",
-            "description": "Добавление карточек товара на WordPress.",
-            "url": "https://freelancehunt.com/showcase/work/dodavannya-kartok-tovaru-vordpres/1978124.html"
+            "title": "Dr. Zubanov — сайт медичної клініки",
+            "description": "Преміум-дизайн для стоматологічної клініки: запис онлайн, портфоліо лікарів, відгуки.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Завантажити 5000 логотипів",
-            "description": "Скачивание и обработка 5000 логотипов.",
-            "url": "https://freelancehunt.com/showcase/work/zavantazhiti-5000-logotipiv/1978123.html"
+            "title": "Dr. Chaustovic Estetisk Klinikk — клініка естетичної медицини (Норвегія)",
+            "description": "Багатомовний сайт з онлайн-бронюванням і галереєю процедур.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Завантажити картинки персонажів",
-            "description": "Парсинг и загрузка изображений персонажей.",
-            "url": "https://freelancehunt.com/showcase/work/zavantazhiti-kartinki-personazhiv/1978120.html"
+            "title": "ЗРОСТАЙ Консалтинг — корпоративний сайт",
+            "description": "Сайт-візитка консалтингової компанії з блогом і lead-формами.",
+            "url": "https://lionex.com.ua",
         },
         {
-            "title": "Додати товар на сайт",
-            "description": "Добавление товаров на сайт.",
-            "url": "https://freelancehunt.com/showcase/work/dodati-tovar-na-sayt-na/1978118.html"
+            "title": "GYPSUN — сайт виробника",
+            "description": "Корпоративний сайт виробника з каталогом продукції та формою заявки.",
+            "url": "https://lionex.com.ua",
         },
-        {
-            "title": "Додати товарів на сайт WordPress",
-            "description": "Добавление товаров на сайт WordPress.",
-            "url": "https://freelancehunt.com/showcase/work/dodati-tovariv-na-sayt-vordpres/1978114.html"
-        },
-        {
-            "title": "Завантажити 1000 логотипів сайтів (Бази)",
-            "description": "Скачивание 1000 логотипов сайтов из базы.",
-            "url": "https://freelancehunt.com/showcase/work/zavantazhiti-1000-logotipiv-saytiv-bazi/1978113.html"
-        },
-        {
-            "title": "Спарсити інформацію YouTube відео",
-            "description": "Парсинг информации с YouTube видео.",
-            "url": "https://freelancehunt.com/showcase/work/sparsiti-informatsiyu-yutub-video/1978109.html"
-        }
-    ]
+    ],
 }
